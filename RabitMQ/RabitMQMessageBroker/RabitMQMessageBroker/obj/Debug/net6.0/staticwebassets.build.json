@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BAMZSwoxLOOn31KcIsNqbUHi32Am5Q3p5XHz5dqIU9E=",
+  "Source": "RabitMQMessageBroker",
+  "BasePath": "_content/RabitMQMessageBroker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
