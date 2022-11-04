@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c16fce0-11a7-440e-8147-5d5f9e124018": {
+      "ProjectGuid": "5c16fce0-11a7-440e-8147-5d5f9e124018",
+      "DisplayName": "Api.Gateway",
+      "ColorIndex": 0
+    },
+    "05eeed32-b492-40d1-9ca6-224c960b1521": {
+      "ProjectGuid": "05eeed32-b492-40d1-9ca6-224c960b1521",
+      "DisplayName": "Api.Gateway",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

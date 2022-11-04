@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abf09461-b441-46c0-9369-1fb1ee3411b6": {
+      "ProjectGuid": "abf09461-b441-46c0-9369-1fb1ee3411b6",
+      "DisplayName": "JWTAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,10 @@
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\bin\Debug\netcoreapp3.1\EQUtility.deps.json
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\bin\Debug\netcoreapp3.1\EQUtility.dll
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\bin\Debug\netcoreapp3.1\EQUtility.pdb
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\obj\Debug\netcoreapp3.1\EQUtility.csproj.AssemblyReference.cache
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\obj\Debug\netcoreapp3.1\EQUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\obj\Debug\netcoreapp3.1\EQUtility.AssemblyInfoInputs.cache
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\obj\Debug\netcoreapp3.1\EQUtility.AssemblyInfo.cs
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\obj\Debug\netcoreapp3.1\EQUtility.csproj.CoreCompileInputs.cache
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\obj\Debug\netcoreapp3.1\EQUtility.dll
+C:\Users\ElumalM\Documents\SampleProject\EQUtility\EQUtility\obj\Debug\netcoreapp3.1\EQUtility.pdb
